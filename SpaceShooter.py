@@ -16,7 +16,7 @@ mixer.music.load('ost.ogg')
 mixer.music.play()
 mixer.music.set_volume(0.1)
 
-
+#halo
 # we need these pictures:
 img_back = "galaxy.jpg" # game background
  
