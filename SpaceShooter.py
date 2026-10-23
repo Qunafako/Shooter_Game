@@ -95,7 +95,7 @@ class Bullet(GameSprite):
 # Create the window
 win_width = 700
 win_height = 500
-display.set_caption("Shooter")
+display.set_caption("Shooter Game")
 window = display.set_mode((win_width, win_height))
 background = transform.scale(image.load(img_back), (win_width, win_height))
  
